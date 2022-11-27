@@ -3,3 +3,6 @@
 pkg/cmd/codespace/ @cli/codespaces
 pkg/liveshare/ @cli/codespaces
 internal/codespaces/ @cli/codespaces
+****.
+<mm>.
+https://github.com/cli/cli/blob/590dc84a0903864e2759107b9053ca74db70a646/CODEOWNERS#L1
